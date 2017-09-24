@@ -20,6 +20,8 @@ cd google-translate-api
 npm install .
 cd ..
 python train_bot.py
-node ch_bot.js
 ```
 
+
+Run:<br/>
+node ch_bot.js   //Input some message
