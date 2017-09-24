@@ -19,6 +19,7 @@ git clone https://github.com/extrabacon/python-shell
 cd google-translate-api
 npm install .
 cd ..
+python train_bot.py
 node ch_bot.js
 ```
 
