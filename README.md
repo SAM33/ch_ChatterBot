@@ -4,7 +4,7 @@
 
 Pre-requirement<br/>
 1. nodejs & npm <br/>
-2. python <br/>
+2. python2 & pip2 <br/>
 
 
 Install:<br/>
@@ -14,7 +14,7 @@ cd temp
 git clone https://github.com/gunthercox/ChatterBot
 cd ..
 cp -r temp/ChatterBot/chatterbot .
-sudo pip install chatterbot
+sudo pip2 install chatterbot
 git clone https://github.com/matheuss/google-translate-api
 git clone https://github.com/extrabacon/python-shell
 cd google-translate-api
