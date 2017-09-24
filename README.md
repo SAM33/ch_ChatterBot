@@ -14,6 +14,7 @@ cd temp
 git clone https://github.com/gunthercox/ChatterBot
 cd ..
 cp -r temp/ChatterBot/chatterbot .
+sudo pip install chatterbot
 git clone https://github.com/matheuss/google-translate-api
 git clone https://github.com/extrabacon/python-shell
 cd google-translate-api
