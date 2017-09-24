@@ -24,4 +24,4 @@ python train_bot.py
 
 
 Run:<br/>
-node ch_bot.js   //Input some message
+`node ch_bot.js   //Input some message`
